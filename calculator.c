@@ -2,8 +2,9 @@
 Student Name= Birat Bikram Karki
 Roll no= 9
 Lab no= 01
-Program= 
+Program=soimple calculator using  
 Date= 23,oct
+
 */
 
 
